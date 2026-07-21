@@ -185,6 +185,11 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="thdt1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://thdt.vn/images/img_dt1.png",Đồng Tháp 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/vinhlong1.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vinhlong1hd
