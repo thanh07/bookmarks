@@ -119,10 +119,10 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=htvcthuanviet
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htvcplus
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-id="sctv2" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv2.png",SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv2-57c3884d
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="sctv3" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv3.png",SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv3
@@ -143,7 +143,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv7
 https://hoiquan.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv9.png",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv10.png",SCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv10
